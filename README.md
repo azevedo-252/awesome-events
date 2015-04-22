@@ -5,28 +5,27 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [World](#world)
 - [Europe](#europe)
   - [Central Europe](#central-europe)
-      - [Austria / Österreich](#austria--%C3%96sterreich-at)
-      - [Switzerland / Schweiz / Suisse](#switzerland--schweiz--suisse--confoederatio-helvetica-ch)
-      - [Germany / Deutschland](#germany--deutschland-de)
-      - [Slovakia](#slovakia-sk)
-      - [Slovenia](#slovenia-si)
-      - [Czech Republic](#czech-republic-cz)
-      - [Poland](#poland-pl)
-      - [Hungary](#hungary-hu)
+      - [Austria / Österreich](#austria--%C3%96sterreich)
+      - [Switzerland / Schweiz / Suisse](#switzerland)
+      - [Germany / Deutschland](#germany--deutschland)
+      - [Slovakia](#slovakia)
+      - [Slovenia](#slovenia)
+      - [Czech Republic](#czech-republic)
+      - [Poland](#poland)
+      - [Hungary](#hungary)
   - [Western Europe](#western-europe)
      - [Scotland](#scotland)
      - [Ireland / Éire](#ireland)
-     - [Belgium / België / Belgique](#belgium--belgi%C3%AB--belgique-be)
+     - [Belgium / België / Belgique](#belgium)
+     - [Portugal](#portugal)
 - [America](#america)
-   - [Canada](#canada-ca) 
-   - [United States](#united-states-us)
+   - [Canada] (#canada) 
+   - [United States](#united-states)
    - [Mexico / México](#mexico)
 - [Asia](#asia)
-   - [Japan](#japan-jp)
-   - [Singapore](#singapore-sg)
+   - [Japan](#japan)
+   - [Singapore](#singapore)
 - [More](#more)
-   - [Links](#links)
-   - [Friends & Family](#friends)
 - [Meta](#meta)
 
 ## World
@@ -90,7 +89,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - @ Warsaw
    - [Warsaw Ruby Users Group (WRUG)](http://wrug.eu)
 
-#### Hungary (hu)
+#### Hungary
 
 - @ Budapest
    - [Budapest.rb](http://www.meetup.com/budapest-rb)
@@ -102,7 +101,7 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [Scottish Ruby User Group](http://www.scotrug.org) - [[GitHub]](https://github.com/scotrug)
    - @ Edinburgh & Glasgow
 
-#### Ireland / Éire (ie)
+#### Ireland (ie)
 
 - [Ruby Ireland](http://www.rubyireland.com) - [[GitHub]](https://github.com/rubyireland)
     - @ Dublin
@@ -113,6 +112,12 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 - [ArrrCamp](http://arrrrcamp.be)
     - 2015 @ Ghent, Oost-Vlaanderen; Oct 1-2
     - 2014 @ Ghent, Oost-Vlaanderen; Oct/2-3
+
+#### Portugal (pt)
+
+- [RubyConf Portugal](http://rubyconf.pt/)
+    - 2014 @ Portugal, Braga; Oct 13-14 - [[GitHub]](https://github.com/groupbuddies/rubyconf-pt)
+    - 2015 @ Portugal, Braga; Sep 14-15 - [[GitHub]](https://github.com/groupbuddies/rubyconfpt-2015)
 
 ## America
 
@@ -132,18 +137,16 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
    - 2015 @ Atlanta, Georgia; Apr/21-23
    - 2014 @ Chicago, Illinois; Apr/22-25
 
-#### Mid Atlantic
-
 - @ New York, New York
-    - [Gotham Ruby Conference (GORUCO)](http://goruco.com)
-      - 2015 @ New York, New York; Jun/20
+    - [GORUCO](http://goruco.com/)
+      - 2015 @ New York; June 20th
 
 #### Pacific Nortwest
 
 - @ Seattle, Washington
     - [Seattle.rb](http://seattlerb.org) - [[GitHub]](https://github.com/seattlerb)
 
-### Mexico / México (mx)
+### Mexico (mx)
 
 - @ Mexico City / México, D.F.
     - [Chilango Rails](http://www.meetup.com/Chilango-Rails)
@@ -164,30 +167,16 @@ A collection of awesome Ruby events (meetups, conferences, camps, etc.) from aro
 ### Singapore (sg)
 
 - [RedDotRubyConf](http://www.reddotrubyconf.com)
-   - 2015 @ Singapore; Jun/4-5
-   - 2014 @ Singapore; Jun/26-27
+   - 2015 @ Matrix, Biopolis; Jun/4-5
+   - 2014 @ Matrix, Biopolis; Jun/26-27
 
-- @ Singapore
-   - [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group)
+- [Singapore Ruby Group](http://www.meetup.com/Singapore-Ruby-Group/)
 
 
 ## More
 
-### Links
-
 - [Ruby Conferences](http://rubyconferences.org)
 - [Ruby User Groups](http://rubyusergroups.org)
-
-### Friends & Family
-
-#### Europe
-
-##### Central Europe
-
-###### Austria (at)
-
-- [Linuxwochen](http://www.linuxwochen.at)
-    - 2015 @ Wien; May/7-9
 
 
 ## Meta
